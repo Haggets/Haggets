@@ -1,6 +1,6 @@
 Hello, programming is cool!
 
-https://haggets.com
+https://www.haggets.com
 
 <!---
 Haggets/Haggets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
